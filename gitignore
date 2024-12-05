@@ -6,7 +6,9 @@
 # Build files
 bin/
 obj/
-
+# Ignore build artifacts and temporary files
+bin/
+obj/
 # Node.js files
 frontend/node_modules/
 frontend/dist/
