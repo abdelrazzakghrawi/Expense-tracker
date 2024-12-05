@@ -1,0 +1,12 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build files
+bin/
+obj/
+
+# Node.js files
+frontend/node_modules/
+frontend/dist/
