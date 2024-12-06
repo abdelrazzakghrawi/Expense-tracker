@@ -336,3 +336,4 @@ C:\Users\MY PC\Desktop\Expense-trackerr\API.net\ExpenseTrackerAPI\obj\Debug\net8
 C:\Users\MY PC\Desktop\Expense-trackerr\API.net\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseT.C6C849CB.Up2Date
 C:\Users\MY PC\Desktop\Expense-trackerr\API.net\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.genruntimeconfig.cache
 C:\Users\MY PC\Desktop\Expense-trackerr\API.net\ExpenseTrackerAPI\obj\Debug\net8.0\ref\ExpenseTrackerAPI.dll
+C:\Users\MY PC\Desktop\Expense-trackerr\API.net\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.sourcelink.json
