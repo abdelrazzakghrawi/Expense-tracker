@@ -23,7 +23,7 @@ Recevoir des alertes lorsque le budget est dépassé.
    git clone https://github.com/abdelrazzakghrawi/Expense-tracker.git
 
 Démo
-Une vidéo de démonstration est disponible ici : Lien vidéo.
+Une vidéo de démonstration est disponible ici : 
 
 Auteur
 Abderrazak GHRAWI
